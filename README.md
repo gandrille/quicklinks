@@ -79,7 +79,7 @@ go install src/github.com/gandrille/quicklinks/quicklinks.go
 
 ## Changelog
 
-**v1.0** initial release
+**[v1.0](../../releases/tag/v1.0)** initial release
 
 
 ## TODO
