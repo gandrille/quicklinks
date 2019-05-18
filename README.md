@@ -72,7 +72,8 @@ Instead of answering the menu, the choices can be directly provided on the comma
 ## Build
 
 ```
-go get ...
+go get github.com/gandrille/quicklinks/...
+go install src/github.com/gandrille/quicklinks/quicklinks.go
 ```
 
 
