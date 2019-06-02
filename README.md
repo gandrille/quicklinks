@@ -72,6 +72,7 @@ Instead of answering the menu, the choices can be directly provided on the comma
 ## Build
 
 ```
+cd ${GOPATH:-~/go}
 go get github.com/gandrille/quicklinks/...
 go install src/github.com/gandrille/quicklinks/quicklinks.go
 ```
@@ -82,6 +83,12 @@ go install src/github.com/gandrille/quicklinks/quicklinks.go
 **[v1.0](../../releases/tag/v1.0)** initial release
 
 
-## TODO
+## License
 
-Choose a license complient with third parties.
+This project is released under the
+[Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0.html).
+
+
+**Dependencies**
+* [github.com/fatih/color](https://github.com/fatih/color/): [MIT](https://github.com/fatih/color/blob/master/LICENSE.md)
+* [github.com/gandrille/go-commons](https://github.com/gandrille/go-commons): [Apache 2.0 license](https://github.com/gandrille/go-commons/blob/master/LICENSE.txt)
